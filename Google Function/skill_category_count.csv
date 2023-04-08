@@ -1,0 +1,866 @@
+job_id,category,skill,validation
+0,Data Analytics,Data Analysis,1.0
+0,Data Analytics,A/B Testing,-1.0
+0,Data Analytics,Data Interpretation,1.0
+0,Data Analytics,Data Analytics,0.0
+0,Data Analytics,Google Analytics,-1.0
+0,Data Analytics,Data Visualization,1.0
+1,"Data EntrySkills:Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Data Entry,-1.0
+1,"Data EntrySkills:Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Accuracy Verification,-1.0
+1,"Data EntrySkills:Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Database,-1.0
+1,"Data EntrySkills:Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Microsoft Excel,0.0
+1,"Data EntrySkills:Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Email Communication,-1.0
+1,"Data EntrySkills:Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Gaming,-1.0
+1,"Data EntrySkills:Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Critical Thinking Skills,-1.0
+2,Data Analytics,Data Analytics,0.0
+2,Data Analytics,Data Visualization,1.0
+2,Data Analytics,English,-1.0
+3,Data Analytics,Data Modeling,-1.0
+3,Data Analytics,Data Entry,-1.0
+4,Data Analytics,Microsoft Excel,0.0
+4,Data Analytics,R,0.0
+4,Data Analytics,Data Entry,-1.0
+4,Data Analytics,Researcher,-1.0
+4,Data Analytics,Statistics,0.0
+4,Data Analytics,Data Mining,0.0
+4,Data Analytics,Data Analysis,1.0
+4,Data Analytics,Python,1.0
+4,Data Analytics,Financial Analysis,-1.0
+5,Data Extraction,Data Mining,0.0
+5,Data Extraction,Market Research,-1.0
+5,Data Extraction,Data Analysis,1.0
+5,Data Extraction,Data Entry,-1.0
+5,Data Extraction,Data Visualization,1.0
+5,Data Extraction,Data Scraping,0.0
+5,Data Extraction,Microsoft Excel,0.0
+6,Data Analytics,SQL,0.0
+6,Data Analytics,Product Analytics,-1.0
+6,Data Analytics,Data Analysis,1.0
+6,Data Analytics,Microsoft Excel,0.0
+6,Data Analytics,Python,1.0
+6,Data Analytics,Amazon Web Services,-1.0
+6,Data Analytics,Laravel,-1.0
+6,Data Analytics,Financial Analysis,-1.0
+6,Data Analytics,Data Visualization,1.0
+6,Data Analytics,React,-1.0
+7,Data Analytics,SQL,0.0
+7,Data Analytics,Oracle,-1.0
+7,Data Analytics,Data Analysis,1.0
+8,Other Digital Marketing,Facebook Ads Manager,-1.0
+9,Data Engineering,Database Design,-1.0
+10,Healthcare Project Management,Data Entry,-1.0
+10,Healthcare Project Management,Financial Analysis,-1.0
+10,Healthcare Project Management,Data Analytics,0.0
+10,Healthcare Project Management,Microsoft Power BI,-1.0
+11,Data Analytics,Data Visualization,1.0
+11,Data Analytics,Researcher,-1.0
+11,Data Analytics,Blockchain,-1.0
+12,Data Analytics,Google Sheets,1.0
+12,Data Analytics,Data Analysis,1.0
+12,Data Analytics,Business Intelligence,1.0
+12,Data Analytics,Fathom Applications Fathom,-1.0
+12,Data Analytics,Microsoft Excel,0.0
+12,Data Analytics,Google Analytics,-1.0
+12,Data Analytics,Researcher,-1.0
+12,Data Analytics,Financial Analysis,-1.0
+12,Data Analytics,Business Analysis,0.0
+13,Data Analytics,Growth Analytics,-1.0
+13,Data Analytics,Operations Analytics,-1.0
+13,Data Analytics,Microsoft Excel,0.0
+13,Data Analytics,Data Entry,-1.0
+13,Data Analytics,Data Analysis,1.0
+14,General Research Services,Internet Researcher,-1.0
+14,General Research Services,Data Entry,-1.0
+14,General Research Services,Cold Calling,-1.0
+14,General Research Services,Cold Email,-1.0
+14,General Research Services,Data Analysis,1.0
+14,General Research Services,Data Analytics,0.0
+14,General Research Services,Typing,-1.0
+14,General Research Services,Microsoft Excel,0.0
+14,General Research Services,B2B Lead Generation,-1.0
+14,General Research Services,B2B Marketing,-1.0
+15,Machine Learning,ChatGPT,-1.0
+15,Machine Learning,GPT-3,-1.0
+16,Business Analysis & Strategy,Business Process Modeling,-1.0
+16,Business Analysis & Strategy,Business Analysis,0.0
+16,Business Analysis & Strategy,Competitive Analysis,-1.0
+16,Business Analysis & Strategy,Data Analysis,1.0
+16,Business Analysis & Strategy,Project Management,-1.0
+16,Business Analysis & Strategy,Data Visualization,1.0
+16,Business Analysis & Strategy,Google Analytics,-1.0
+16,Business Analysis & Strategy,Market Research,-1.0
+16,Business Analysis & Strategy,Digital Product Designer,-1.0
+17,Data Visualization,Data Analysis,1.0
+17,Data Visualization,Data Visualization,1.0
+17,Data Visualization,Data Modeling,-1.0
+17,Data Visualization,Microsoft SQL Server Reporting Services,-1.0
+17,Data Visualization,Business Intelligence,1.0
+18,Data Analytics,Data Analysis,1.0
+18,Data Analytics,Qualitative Research,-1.0
+18,Data Analytics,Researcher,-1.0
+18,Data Analytics,NVivo,-1.0
+19,Data Visualization,Data Analysis,1.0
+19,Data Visualization,Data Visualization,1.0
+19,Data Visualization,Data Modeling,-1.0
+19,Data Visualization,Microsoft SQL Server Reporting Services,-1.0
+19,Data Visualization,Business Intelligence,1.0
+20,Data Analytics,Dashboard,1.0
+20,Data Analytics,A/B Testing,-1.0
+20,Data Analytics,Microsoft Excel,0.0
+20,Data Analytics,Data Analysis,1.0
+20,Data Analytics,Google Sheets,1.0
+20,Data Analytics,Google Data Studio,-1.0
+20,Data Analytics,Visual Basic for Applications,-1.0
+20,Data Analytics,Google Docs,-1.0
+20,Data Analytics,Data Visualization,1.0
+20,Data Analytics,Spreadsheet Software,-1.0
+21,Data Analytics,Data Analysis,1.0
+21,Data Analytics,Data Interpretation,1.0
+21,Data Analytics,Hypothesis Testing,-1.0
+21,Data Analytics,Hotjar Expert,-1.0
+22,Data Analytics,SQL,0.0
+22,Data Analytics,Data Analysis,1.0
+22,Data Analytics,Metabase,-1.0
+23,Data Analytics,Microsoft Excel,0.0
+23,Data Analytics,Financial Analysis,-1.0
+23,Data Analytics,Data Entry,-1.0
+23,Data Analytics,Financial Modeling,-1.0
+23,Data Analytics,Financial Projection,-1.0
+23,Data Analytics,Business Modeling,-1.0
+23,Data Analytics,Business Analysis,0.0
+24,Data Mining,Data Mining,0.0
+24,Data Mining,Data Scraping,0.0
+24,Data Mining,Researcher,-1.0
+24,Data Mining,Lead Generation,-1.0
+24,Data Mining,LinkedIn Development,-1.0
+24,Data Mining,Prospect List,-1.0
+24,Data Mining,Data Extraction,-1.0
+25,General Research Services,Virtual Assistant,-1.0
+25,General Research Services,Administrative Support,-1.0
+25,General Research Services,Business Analysis,0.0
+26,Data Analytics,Marketing Analytics,-1.0
+26,Data Analytics,R,0.0
+26,Data Analytics,Data Analysis,1.0
+26,Data Analytics,Data Science,0.0
+26,Data Analytics,Data Visualization,1.0
+26,Data Analytics,Microsoft Excel,0.0
+26,Data Analytics,Python,1.0
+26,Data Analytics,Statistics,0.0
+26,Data Analytics,Data Mining,0.0
+26,Data Analytics,Data Modeling,-1.0
+27,Data Visualization,Presentations,-1.0
+27,Data Visualization,Data Visualization,1.0
+27,Data Visualization,Data Analysis,1.0
+28,Data Analytics,SQL,0.0
+28,Data Analytics,Machine Learning,-1.0
+28,Data Analytics,Big Data,-1.0
+28,Data Analytics,Python,1.0
+28,Data Analytics,Data Analysis,1.0
+29,Data Analytics,Data Analysis,1.0
+29,Data Analytics,Data Interpretation,1.0
+29,Data Analytics,Customer Service Analytics,-1.0
+29,Data Analytics,Operations Analytics,-1.0
+29,Data Analytics,Dashboard,1.0
+29,Data Analytics,Business Intelligence,1.0
+29,Data Analytics,Data Analytics,0.0
+29,Data Analytics,HubSpot,-1.0
+29,Data Analytics,Microsoft Excel,0.0
+29,Data Analytics,Data Visualization,1.0
+30,Data Analytics,Python,1.0
+30,Data Analytics,MySQL,-1.0
+30,Data Analytics,Data Analysis,1.0
+31,Paralegal Services,Researcher,-1.0
+31,Paralegal Services,Legal Research,-1.0
+31,Paralegal Services,Legal,-1.0
+31,Paralegal Services,Legal Consulting,-1.0
+31,Paralegal Services,Legal Assistance,-1.0
+31,Paralegal Services,Data Analysis,1.0
+31,Paralegal Services,Business Analysis,0.0
+32,Full Stack Development,Web Application,-1.0
+32,Full Stack Development,Adobe Photoshop,-1.0
+32,Full Stack Development,Java,-1.0
+32,Full Stack Development,SQLite,-1.0
+32,Full Stack Development,Apache HTTP Server,-1.0
+32,Full Stack Development,Business with 1-9 Employees,-1.0
+33,Data Analytics,Google Analytics,-1.0
+33,Data Analytics,Marketing Analytics,-1.0
+33,Data Analytics,Sales Analytics,-1.0
+33,Data Analytics,Dashboard,1.0
+33,Data Analytics,Report,-1.0
+33,Data Analytics,A/B Testing,-1.0
+33,Data Analytics,Funnel Testing,-1.0
+33,Data Analytics,Data Analysis,1.0
+33,Data Analytics,Statistics,0.0
+34,Data Analytics,Google Analytics,-1.0
+34,Data Analytics,Data Visualization,1.0
+34,Data Analytics,Data Analytics,0.0
+34,Data Analytics,Data Interpretation,1.0
+34,Data Analytics,Data Analysis,1.0
+35,Business Analysis & Strategy,Microsoft Excel,0.0
+35,Business Analysis & Strategy,Business Intelligence,1.0
+35,Business Analysis & Strategy,Financial Analysis,-1.0
+35,Business Analysis & Strategy,Business Analysis,0.0
+35,Business Analysis & Strategy,SaaS,-1.0
+36,Data Analytics,R,0.0
+37,Data Analytics,Python,1.0
+37,Data Analytics,R,0.0
+38,Business Analysis & Strategy,Microsoft Excel,0.0
+38,Business Analysis & Strategy,Business Intelligence,1.0
+38,Business Analysis & Strategy,Financial Analysis,-1.0
+38,Business Analysis & Strategy,Business Analysis,0.0
+38,Business Analysis & Strategy,SaaS,-1.0
+39,Data Analytics,Data Modeling,-1.0
+39,Data Analytics,Data Analysis,1.0
+39,Data Analytics,Microsoft Excel,0.0
+39,Data Analytics,Microsoft Power BI,-1.0
+39,Data Analytics,Data Visualization,1.0
+39,Data Analytics,Business Intelligence,1.0
+40,Data Processing,Data Annotation,-1.0
+40,Data Processing,Data Segmentation,-1.0
+40,Data Processing,Data Analysis,1.0
+40,Data Processing,English,-1.0
+40,Data Processing,FinTech,-1.0
+41,Data Analytics,Microsoft Excel,0.0
+41,Data Analytics,Business Intelligence,1.0
+41,Data Analytics,Data Analysis,1.0
+41,Data Analytics,Data Visualization,1.0
+41,Data Analytics,Jira,-1.0
+41,Data Analytics,Git,-1.0
+41,Data Analytics,D3.js,-1.0
+41,Data Analytics,Google Charts,-1.0
+42,Data Analytics,Marketing Analytics,-1.0
+42,Data Analytics,Data Analysis,1.0
+42,Data Analytics,Report,-1.0
+42,Data Analytics,Dashboard,1.0
+42,Data Analytics,Query Development,-1.0
+42,Data Analytics,Data Visualization,1.0
+42,Data Analytics,Business Intelligence,1.0
+42,Data Analytics,Data Interpretation,1.0
+42,Data Analytics,Data Entry,-1.0
+42,Data Analytics,Researcher,-1.0
+43,"Recruiting & Talent SourcingSkills:LinkedIn Recruiting,     Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",LinkedIn Recruiting,-1.0
+43,"Recruiting & Talent SourcingSkills:LinkedIn Recruiting,     Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Data Entry,-1.0
+43,"Recruiting & Talent SourcingSkills:LinkedIn Recruiting,     Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Accuracy Verification,-1.0
+43,"Recruiting & Talent SourcingSkills:LinkedIn Recruiting,     Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Database,-1.0
+43,"Recruiting & Talent SourcingSkills:LinkedIn Recruiting,     Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Microsoft Excel,0.0
+43,"Recruiting & Talent SourcingSkills:LinkedIn Recruiting,     Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Email Communication,-1.0
+43,"Recruiting & Talent SourcingSkills:LinkedIn Recruiting,     Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Gaming,-1.0
+43,"Recruiting & Talent SourcingSkills:LinkedIn Recruiting,     Data Entry,     Accuracy Verification,     Database,     Microsoft Excel,     Email Communication,     Gaming,     Critical Thinking ",Critical Thinking Skills,-1.0
+44,Data Analytics,Google Sheets,1.0
+44,Data Analytics,SQL,0.0
+45,Database Administration,Database Management,-1.0
+45,Database Administration,Microsoft Excel,0.0
+45,Database Administration,CRM Software,-1.0
+45,Database Administration,Microsoft Word,-1.0
+45,Database Administration,Portfolio Management,-1.0
+45,Database Administration,Data Entry,-1.0
+45,Database Administration,Researcher,-1.0
+45,Database Administration,Accuracy Verification,-1.0
+46,Data Analytics,Data Analytics,0.0
+46,Data Analytics,Data Visualization,1.0
+46,Data Analytics,Data Interpretation,1.0
+46,Data Analytics,English,-1.0
+47,Data Analytics,Data Analysis,1.0
+47,Data Analytics,Microsoft Power BI,-1.0
+47,Data Analytics,Tableau,-1.0
+47,Data Analytics,Microsoft Excel,0.0
+48,General Virtual Assistance,Microsoft Excel,0.0
+48,General Virtual Assistance,Data Analysis,1.0
+48,General Virtual Assistance,Real Estate Appraisal,-1.0
+48,General Virtual Assistance,Data Analytics,0.0
+49,Data Analytics,Report,-1.0
+49,Data Analytics,Dashboard,1.0
+49,Data Analytics,Data Analytics,0.0
+49,Data Analytics,Python,1.0
+49,Data Analytics,Data Analysis,1.0
+49,Data Analytics,Statistics,0.0
+49,Data Analytics,Jupyter,-1.0
+50,Data Engineering,Data Engineering,-1.0
+50,Data Engineering,Cognos,-1.0
+51,Data Analytics,Google Analytics,-1.0
+51,Data Analytics,Data Visualization,1.0
+51,Data Analytics,Data Analysis,1.0
+52,Data Analytics,Data Analysis,1.0
+52,Data Analytics,Python,1.0
+52,Data Analytics,Data Visualization,1.0
+53,Data Analytics,Python,1.0
+53,Data Analytics,Data Analysis,1.0
+53,Data Analytics,Data Science,0.0
+53,Data Analytics,Statistics,0.0
+53,Data Analytics,Quantitative Analysis,-1.0
+53,Data Analytics,Data Visualization,1.0
+53,Data Analytics,Time Series Analysis,-1.0
+53,Data Analytics,Quantitative Finance,-1.0
+53,Data Analytics,NumPy,-1.0
+53,Data Analytics,Jupyter,-1.0
+54,Data Analytics,Python,1.0
+54,Data Analytics,Data Visualization,1.0
+54,Data Analytics,Data Analysis,1.0
+54,Data Analytics,Data Science,0.0
+55,Data Analytics,Dashboard,1.0
+55,Data Analytics,Report,-1.0
+55,Data Analytics,Python,1.0
+55,Data Analytics,Amazon Redshift,-1.0
+55,Data Analytics,SQL,0.0
+56,Financial Analysis & Modeling,Microsoft Excel,0.0
+56,Financial Analysis & Modeling,Financial Modeling,-1.0
+56,Financial Analysis & Modeling,Financial Analysis,-1.0
+56,Financial Analysis & Modeling,Accounting,-1.0
+56,Financial Analysis & Modeling,Bloomberg Terminal,-1.0
+57,Data Analytics,Microsoft Power BI,-1.0
+57,Data Analytics,Data Analysis,1.0
+57,Data Analytics,Data Visualization,1.0
+57,Data Analytics,Machine Learning,-1.0
+57,Data Analytics,Salesforce,-1.0
+57,Data Analytics,SAP,-1.0
+57,Data Analytics,Finance,-1.0
+57,Data Analytics,R,0.0
+57,Data Analytics,Python,1.0
+57,Data Analytics,Machine Learning Model,-1.0
+58,Data Analytics,Microsoft Power BI,-1.0
+58,Data Analytics,Data Analysis,1.0
+58,Data Analytics,Data Visualization,1.0
+58,Data Analytics,Machine Learning,-1.0
+58,Data Analytics,Salesforce,-1.0
+58,Data Analytics,SAP,-1.0
+58,Data Analytics,Finance,-1.0
+58,Data Analytics,R,0.0
+58,Data Analytics,Python,1.0
+58,Data Analytics,Machine Learning Model,-1.0
+59,Data Analytics,Google Analytics,-1.0
+59,Data Analytics,Google Tag Manager,-1.0
+59,Data Analytics,Customer Service Analytics,-1.0
+59,Data Analytics,Sales Analytics,-1.0
+59,Data Analytics,Marketing Analytics,-1.0
+59,Data Analytics,Google Ad Manager,-1.0
+59,Data Analytics,Google Ads,-1.0
+59,Data Analytics,Yandex.Metrica,-1.0
+59,Data Analytics,English,-1.0
+60,Machine Learning,Machine Learning Model,-1.0
+60,Machine Learning,Python,1.0
+60,Machine Learning,Data Analysis,1.0
+60,Machine Learning,Machine Learning,-1.0
+61,Data Analytics,Data Analysis,1.0
+61,Data Analytics,Data Visualization,1.0
+61,Data Analytics,Data Analytics,0.0
+61,Data Analytics,Google Analytics,-1.0
+62,Data Analytics,Microsoft Excel,0.0
+62,Data Analytics,Data Analysis,1.0
+62,Data Analytics,Researcher,-1.0
+62,Data Analytics,Data Visualization,1.0
+62,Data Analytics,Business Intelligence,1.0
+62,Data Analytics,Data Science,0.0
+62,Data Analytics,Market Analysis,-1.0
+62,Data Analytics,Data Mining,0.0
+63,Data Analytics,Medical Billing & Coding,-1.0
+63,Data Analytics,Microsoft Excel,0.0
+63,Data Analytics,Data Analysis,1.0
+63,Data Analytics,Data Mining,0.0
+63,Data Analytics,Data Entry,-1.0
+64,Scripting & Automation,Automation,-1.0
+64,Scripting & Automation,Dashboard,1.0
+64,Scripting & Automation,Data Analysis,1.0
+65,Data Mining,Data Science,0.0
+65,Data Mining,Data Mining,0.0
+66,Data Analytics,Data Analysis,1.0
+66,Data Analytics,Customer Service Analytics,-1.0
+66,Data Analytics,Product Analytics,-1.0
+66,Data Analytics,Human Resources Analytics,-1.0
+66,Data Analytics,Operations Analytics,-1.0
+66,Data Analytics,Sales Analytics,-1.0
+66,Data Analytics,Google Analytics,-1.0
+67,Data Analytics,Operations Analytics,-1.0
+67,Data Analytics,Marketing Analytics,-1.0
+67,Data Analytics,Customer Service Analytics,-1.0
+67,Data Analytics,Product Analytics,-1.0
+67,Data Analytics,Sales Analytics,-1.0
+67,Data Analytics,Data Analysis,1.0
+67,Data Analytics,Google Analytics,-1.0
+67,Data Analytics,Data Visualization,1.0
+67,Data Analytics,Data Analytics,0.0
+67,Data Analytics,Data Science,0.0
+68,Data Analytics,Data Modeling,-1.0
+68,Data Analytics,Data Entry,-1.0
+69,Data Analytics,Data Visualization,1.0
+69,Data Analytics,Data Interpretation,1.0
+69,Data Analytics,Business Intelligence,1.0
+69,Data Analytics,Machine Learning,-1.0
+69,Data Analytics,Statistical Analysis,-1.0
+69,Data Analytics,Blockchain,-1.0
+69,Data Analytics,Tokenomics,-1.0
+69,Data Analytics,Valuation,-1.0
+70,Data Analytics,Data Analysis,1.0
+70,Data Analytics,Operations Analytics,-1.0
+70,Data Analytics,Growth Analytics,-1.0
+70,Data Analytics,Customer Service Analytics,-1.0
+70,Data Analytics,Product Analytics,-1.0
+70,Data Analytics,Sales Analytics,-1.0
+70,Data Analytics,Google Analytics,-1.0
+70,Data Analytics,Data Analytics,0.0
+70,Data Analytics,Data Visualization,1.0
+71,Data Analytics,Data Analysis,1.0
+71,Data Analytics,Data Visualization,1.0
+71,Data Analytics,Data Analytics,0.0
+71,Data Analytics,Google Analytics,-1.0
+72,Data Analytics,Sales Analytics,-1.0
+72,Data Analytics,Dashboard,1.0
+72,Data Analytics,Presentations,-1.0
+72,Data Analytics,Big Data,-1.0
+72,Data Analytics,Business Intelligence,1.0
+72,Data Analytics,Data Interpretation,1.0
+72,Data Analytics,Data Analysis,1.0
+73,Data Analytics,Microsoft Excel,0.0
+73,Data Analytics,Data Entry,-1.0
+73,Data Analytics,Data Scraping,0.0
+73,Data Analytics,Internet Survey,-1.0
+74,Machine Learning,Microsoft Power BI,-1.0
+74,Machine Learning,Data Analysis,1.0
+74,Machine Learning,Data Visualization,1.0
+74,Machine Learning,Machine Learning,-1.0
+74,Machine Learning,Salesforce,-1.0
+74,Machine Learning,SAP,-1.0
+74,Machine Learning,Finance,-1.0
+74,Machine Learning,R,0.0
+74,Machine Learning,Python,1.0
+74,Machine Learning,Machine Learning Model,-1.0
+75,Data Visualization,Microsoft Power BI,-1.0
+75,Data Visualization,ETL Pipeline,-1.0
+75,Data Visualization,BigQuery,-1.0
+75,Data Visualization,SQL,0.0
+75,Data Visualization,dbt,-1.0
+76,Data Analytics,Microsoft Power BI,-1.0
+76,Data Analytics,Data Analysis,1.0
+76,Data Analytics,Python,1.0
+76,Data Analytics,SQL,0.0
+76,Data Analytics,Tableau,-1.0
+76,Data Analytics,Microsoft Power BI Data Visualization,-1.0
+77,Data Analytics,Python,1.0
+77,Data Analytics,R,0.0
+77,Data Analytics,Data Analysis,1.0
+77,Data Analytics,Statistics,0.0
+77,Data Analytics,Machine Learning,-1.0
+77,Data Analytics,Predictive Analytics,-1.0
+77,Data Analytics,Data Science,0.0
+78,Recruiting & Talent Sourcing,Data Analysis,1.0
+78,Recruiting & Talent Sourcing,Python,1.0
+78,Recruiting & Talent Sourcing,Machine Learning,-1.0
+78,Recruiting & Talent Sourcing,Artificial Intelligence,-1.0
+79,Data Engineering,Database Architecture,-1.0
+79,Data Engineering,Database Design,-1.0
+79,Data Engineering,Data Modeling,-1.0
+79,Data Engineering,Python,1.0
+79,Data Engineering,Data Analysis,1.0
+79,Data Engineering,ETL Pipeline,-1.0
+79,Data Engineering,Amazon Redshift,-1.0
+79,Data Engineering,Tableau,-1.0
+79,Data Engineering,MySQL,-1.0
+79,Data Engineering,PostgreSQL,-1.0
+80,Data Analytics,Growth Analytics,-1.0
+80,Data Analytics,Product Analytics,-1.0
+80,Data Analytics,Human Resources Analytics,-1.0
+80,Data Analytics,Marketing Analytics,-1.0
+80,Data Analytics,Sales Analytics,-1.0
+80,Data Analytics,Google Analytics,-1.0
+80,Data Analytics,Data Analytics,0.0
+80,Data Analytics,Data Analysis,1.0
+81,Data Analytics,Data Visualization,1.0
+81,Data Analytics,Data Interpretation,1.0
+81,Data Analytics,Data Analysis,1.0
+81,Data Analytics,Data Entry,-1.0
+81,Data Analytics,Researcher,-1.0
+81,Data Analytics,Administrative Support,-1.0
+81,Data Analytics,Statistics,0.0
+81,Data Analytics,Data Science,0.0
+82,Data Analytics,Business Intelligence,1.0
+82,Data Analytics,Data Analytics,0.0
+82,Data Analytics,Data Interpretation,1.0
+82,Data Analytics,Data Analysis,1.0
+82,Data Analytics,Shopify,-1.0
+83,Data Analytics,Data Visualization,1.0
+83,Data Analytics,Data Analytics,0.0
+83,Data Analytics,Google Analytics,-1.0
+83,Data Analytics,Data Analysis,1.0
+84,Data Analytics,Data Analysis,1.0
+84,Data Analytics,Data Visualization,1.0
+84,Data Analytics,Microsoft Excel,0.0
+84,Data Analytics,API Integration,-1.0
+84,Data Analytics,Analytics,-1.0
+85,Data Analytics,Data Analysis,1.0
+85,Data Analytics,Marketing Analytics,-1.0
+85,Data Analytics,Data Visualization,1.0
+85,Data Analytics,Google Analytics,-1.0
+86,Data Analytics,Data Visualization,1.0
+86,Data Analytics,Data Analytics,0.0
+86,Data Analytics,Google Analytics,-1.0
+86,Data Analytics,Data Analysis,1.0
+87,Data Analytics,Data Visualization,1.0
+87,Data Analytics,Data Analytics,0.0
+87,Data Analytics,Google Analytics,-1.0
+87,Data Analytics,Data Analysis,1.0
+88,Data Analytics,Data Modeling,-1.0
+88,Data Analytics,Data Entry,-1.0
+89,Data Analytics,Information Security,-1.0
+89,Data Analytics,Knowledge Management Tool,-1.0
+89,Data Analytics,Knowledge Management Solutions KMx,-1.0
+90,Data Analytics,Dashboard,1.0
+90,Data Analytics,Data Visualization,1.0
+90,Data Analytics,Data Interpretation,1.0
+90,Data Analytics,Microsoft Power BI,-1.0
+90,Data Analytics,QlikView,-1.0
+90,Data Analytics,SQL,0.0
+90,Data Analytics,Data Analysis,1.0
+90,Data Analytics,Quantitative Analysis,-1.0
+90,Data Analytics,R,0.0
+91,Data Analytics,Tableau,-1.0
+91,Data Analytics,Business Intelligence,1.0
+91,Data Analytics,Microsoft Excel,0.0
+92,Data Analytics,Operations Analytics,-1.0
+92,Data Analytics,Data Interpretation,1.0
+92,Data Analytics,Data Analytics,0.0
+92,Data Analytics,Microsoft Excel,0.0
+92,Data Analytics,Financial Analysis,-1.0
+92,Data Analytics,Data Analysis,1.0
+92,Data Analytics,Business Analysis,0.0
+92,Data Analytics,Business Intelligence,1.0
+92,Data Analytics,Analytics,-1.0
+92,Data Analytics,Statistics,0.0
+93,Information Security,Security Engineering,-1.0
+93,Information Security,Encryption,-1.0
+93,Information Security,Security Analysis,-1.0
+93,Information Security,Researcher,-1.0
+94,Data Analytics,Microsoft Power BI,-1.0
+94,Data Analytics,Microsoft Excel,0.0
+94,Data Analytics,SQL,0.0
+94,Data Analytics,Data Modeling,-1.0
+94,Data Analytics,Business Intelligence,1.0
+94,Data Analytics,Market Research,-1.0
+94,Data Analytics,Financial Analysis,-1.0
+94,Data Analytics,Salesforce,-1.0
+94,Data Analytics,Forecasting,-1.0
+94,Data Analytics,Sales Analytics,-1.0
+94,Data Analytics,Financial Analysis & Valuation,-1.0
+95,Data Analytics,Text Analytics,-1.0
+95,Data Analytics,Predictive Analytics,-1.0
+95,Data Analytics,Machine Learning,-1.0
+95,Data Analytics,Exploratory Data Analysis,-1.0
+95,Data Analytics,Data Cleansing,-1.0
+95,Data Analytics,Unsupervised Learning,-1.0
+95,Data Analytics,Data Mining,0.0
+95,Data Analytics,Data Analysis,1.0
+95,Data Analytics,SQL,0.0
+95,Data Analytics,Sentiment Analysis,-1.0
+95,Data Analytics,Tableau,-1.0
+95,Data Analytics,Python,1.0
+95,Data Analytics,R,0.0
+96,Data Visualization,Microsoft Excel,0.0
+96,Data Visualization,Data Visualization,1.0
+97,Data Analytics,Data Entry,-1.0
+97,Data Analytics,Google Analytics,-1.0
+97,Data Analytics,Researcher,-1.0
+97,Data Analytics,Data Analysis,1.0
+97,Data Analytics,Analytics,-1.0
+97,Data Analytics,Business Analysis,0.0
+98,Data Analytics,Marketing Analytics,-1.0
+98,Data Analytics,Operations Analytics,-1.0
+98,Data Analytics,Product Analytics,-1.0
+98,Data Analytics,Growth Analytics,-1.0
+98,Data Analytics,Human Resources Analytics,-1.0
+98,Data Analytics,Sales Analytics,-1.0
+98,Data Analytics,Data Analysis,1.0
+98,Data Analytics,Data Visualization,1.0
+98,Data Analytics,Business Intelligence,1.0
+98,Data Analytics,Data Analytics,0.0
+98,Data Analytics,Data Interpretation,1.0
+98,Data Analytics,Google Analytics,-1.0
+99,Data Analytics,Tableau,-1.0
+99,Data Analytics,Operations Analytics,-1.0
+99,Data Analytics,Marketing Analytics,-1.0
+99,Data Analytics,Growth Analytics,-1.0
+99,Data Analytics,Dashboard,1.0
+99,Data Analytics,Business Intelligence,1.0
+99,Data Analytics,Data Modeling,-1.0
+99,Data Analytics,dbt,-1.0
+99,Data Analytics,Python,1.0
+100,Data Analytics,Data Analysis,1.0
+100,Data Analytics,Market Research,-1.0
+100,Data Analytics,Data Visualization,1.0
+101,Data Analytics,Data Analysis,1.0
+101,Data Analytics,Data Visualization,1.0
+101,Data Analytics,Data Analytics,0.0
+101,Data Analytics,Data Interpretation,1.0
+101,Data Analytics,Google Analytics,-1.0
+102,Data Analytics,Operations Analytics,-1.0
+102,Data Analytics,Data Analytics,0.0
+102,Data Analytics,Data Interpretation,1.0
+102,Data Analytics,Google Analytics,-1.0
+102,Data Analytics,Looker,-1.0
+102,Data Analytics,SQL,0.0
+102,Data Analytics,Data Analysis Expressions,-1.0
+102,Data Analytics,Data Visualization,1.0
+102,Data Analytics,Data Analysis,1.0
+102,Data Analytics,Python,1.0
+103,Data Analytics,Data Visualization,1.0
+103,Data Analytics,Data Analytics,0.0
+103,Data Analytics,Google Analytics,-1.0
+103,Data Analytics,Data Analysis,1.0
+104,Data Processing,Data Processing,-1.0
+104,Data Processing,SAP,-1.0
+104,Data Processing,Data Analysis,1.0
+104,Data Processing,ETL,-1.0
+104,Data Processing,Data Migration,-1.0
+105,Data Extraction,Researcher,-1.0
+105,Data Extraction,Content Writing,-1.0
+105,Data Extraction,Market Research,-1.0
+105,Data Extraction,Data Scraping,0.0
+105,Data Extraction,Data Extraction,-1.0
+105,Data Extraction,Data Analysis,1.0
+105,Data Extraction,Data Mining,0.0
+106,Data Analytics,Sales Analytics,-1.0
+106,Data Analytics,Data Visualization,1.0
+106,Data Analytics,Data Analysis,1.0
+106,Data Analytics,Microsoft Excel,0.0
+107,Data Analytics,Data Analysis,1.0
+107,Data Analytics,Data Science,0.0
+107,Data Analytics,Python,1.0
+108,Data Analytics,Data Analysis,1.0
+109,Data Analytics,Microsoft Excel,0.0
+109,Data Analytics,Python,1.0
+109,Data Analytics,Data Analysis,1.0
+109,Data Analytics,Data Entry,-1.0
+110,Market Research,Data Analysis,1.0
+110,Market Research,Market Research,-1.0
+110,Market Research,Data Mining,0.0
+111,Data Analytics,Data Analysis,1.0
+111,Data Analytics,Data Science,0.0
+111,Data Analytics,Artificial Intelligence,-1.0
+111,Data Analytics,Analytics,-1.0
+111,Data Analytics,Data Visualization,1.0
+111,Data Analytics,Artificial Neural Network,-1.0
+112,Data Analytics,Data Analysis,1.0
+112,Data Analytics,Google Analytics,-1.0
+112,Data Analytics,Data Visualization,1.0
+112,Data Analytics,Social Media Marketing,-1.0
+112,Data Analytics,Google Data Studio,-1.0
+112,Data Analytics,Statistics,0.0
+113,Data Analytics,Data Analysis,1.0
+113,Data Analytics,Data Mining,0.0
+113,Data Analytics,Python,1.0
+113,Data Analytics,Data Visualization,1.0
+113,Data Analytics,Microsoft Excel,0.0
+113,Data Analytics,Statistics,0.0
+113,Data Analytics,SQL,0.0
+114,Data Analytics,Growth Analytics,-1.0
+114,Data Analytics,Data Analytics,0.0
+114,Data Analytics,Google Analytics,-1.0
+114,Data Analytics,Data Analysis,1.0
+114,Data Analytics,Analytics,-1.0
+115,Data Extraction,Researcher,-1.0
+115,Data Extraction,Content Writing,-1.0
+115,Data Extraction,Market Research,-1.0
+115,Data Extraction,Data Scraping,0.0
+115,Data Extraction,Data Extraction,-1.0
+115,Data Extraction,Data Analysis,1.0
+115,Data Extraction,Data Mining,0.0
+116,Data Analytics,Data Analysis,1.0
+117,Accounting,Account Reconciliation,-1.0
+117,Accounting,Microsoft Excel,0.0
+117,Accounting,Data Mining,0.0
+117,Accounting,Accounts Receivable,-1.0
+118,Data Analytics,Google Analytics,-1.0
+118,Data Analytics,Google Tag Manager,-1.0
+118,Data Analytics,Shopify,-1.0
+118,Data Analytics,Analytics,-1.0
+118,Data Analytics,Web Analytics,-1.0
+118,Data Analytics,Conversion Rate Optimization,-1.0
+118,Data Analytics,Google Optimize,-1.0
+119,Data Analytics,Data Visualization,1.0
+119,Data Analytics,Business Intelligence,1.0
+119,Data Analytics,Tableau,-1.0
+120,Data Analytics,Data Visualization,1.0
+120,Data Analytics,Data Analytics,0.0
+120,Data Analytics,Data Interpretation,1.0
+120,Data Analytics,Google Analytics,-1.0
+120,Data Analytics,Data Analysis,1.0
+121,Data Analytics,Microsoft Excel,0.0
+121,Data Analytics,Data Analysis,1.0
+121,Data Analytics,Data Entry,-1.0
+121,Data Analytics,Data Mining,0.0
+122,Data Analytics,Operations Analytics,-1.0
+122,Data Analytics,Growth Analytics,-1.0
+122,Data Analytics,Sales Analytics,-1.0
+122,Data Analytics,Marketing Analytics,-1.0
+122,Data Analytics,Data Visualization,1.0
+122,Data Analytics,Data Analytics,0.0
+122,Data Analytics,Data Interpretation,1.0
+122,Data Analytics,Microsoft Excel,0.0
+122,Data Analytics,Python,1.0
+122,Data Analytics,Data Analysis,1.0
+123,Data Analytics,Data Analysis,1.0
+123,Data Analytics,Data Visualization,1.0
+123,Data Analytics,Business Intelligence,1.0
+123,Data Analytics,Virtual Assistant,-1.0
+124,Emerging Tech,Cryptocurrency,-1.0
+124,Emerging Tech,DeFi,-1.0
+124,Emerging Tech,White Paper,-1.0
+125,Data Analytics,R,0.0
+125,Data Analytics,Data Analysis,1.0
+125,Data Analytics,Statistics,0.0
+125,Data Analytics,Data Visualization,1.0
+126,Data Visualization,Microsoft Power BI,-1.0
+126,Data Visualization,Data Analysis,1.0
+126,Data Visualization,Data Visualization,1.0
+126,Data Visualization,Microsoft Excel,0.0
+126,Data Visualization,SQL,0.0
+127,Data Analytics,SQL,0.0
+128,Data Analytics,Data Analysis,1.0
+128,Data Analytics,Data Visualization,1.0
+128,Data Analytics,Data Analytics,0.0
+128,Data Analytics,Google Analytics,-1.0
+129,General Research Services,Data Analysis,1.0
+129,General Research Services,Data Entry,-1.0
+129,General Research Services,Researcher,-1.0
+129,General Research Services,Microsoft Excel,0.0
+129,General Research Services,Writing,-1.0
+130,Data Analytics,Machine Learning,-1.0
+130,Data Analytics,Python,1.0
+130,Data Analytics,Data Analysis,1.0
+130,Data Analytics,Data Visualization,1.0
+130,Data Analytics,SQL,0.0
+131,Data Analytics,Data Analytics,0.0
+131,Data Analytics,Data Interpretation,1.0
+131,Data Analytics,Data Analysis,1.0
+131,Data Analytics,Data Visualization,1.0
+131,Data Analytics,Google Analytics,-1.0
+132,Data Analytics,Operations Analytics,-1.0
+132,Data Analytics,Growth Analytics,-1.0
+132,Data Analytics,Presentations,-1.0
+132,Data Analytics,Data Analytics,0.0
+132,Data Analytics,Data Interpretation,1.0
+132,Data Analytics,Big Data,-1.0
+132,Data Analytics,Data Analysis,1.0
+132,Data Analytics,Data Visualization,1.0
+132,Data Analytics,Tableau,-1.0
+132,Data Analytics,Business Intelligence,1.0
+133,Data Analytics,Microsoft Power BI,-1.0
+134,Data Analytics,Data Visualization,1.0
+134,Data Analytics,Data Analytics,0.0
+134,Data Analytics,Data Interpretation,1.0
+134,Data Analytics,Google Analytics,-1.0
+134,Data Analytics,Data Analysis,1.0
+135,Data Analytics,Marketing Analytics,-1.0
+135,Data Analytics,Business Intelligence,1.0
+135,Data Analytics,Data Visualization,1.0
+135,Data Analytics,Data Analysis,1.0
+136,Data Analytics,Growth Analytics,-1.0
+136,Data Analytics,Operations Analytics,-1.0
+136,Data Analytics,Product Analytics,-1.0
+136,Data Analytics,Sales Analytics,-1.0
+136,Data Analytics,Marketing Analytics,-1.0
+136,Data Analytics,Presentations,-1.0
+136,Data Analytics,Data Visualization,1.0
+136,Data Analytics,Business Intelligence,1.0
+136,Data Analytics,Data Interpretation,1.0
+137,Data Analytics,SQL,0.0
+137,Data Analytics,Data Visualization,1.0
+137,Data Analytics,Data Interpretation,1.0
+137,Data Analytics,Data Analytics,0.0
+137,Data Analytics,A/B Testing,-1.0
+137,Data Analytics,Query Development,-1.0
+137,Data Analytics,Data Analysis,1.0
+137,Data Analytics,Oracle,-1.0
+138,Data Analytics,Marketing Analytics,-1.0
+138,Data Analytics,Business Intelligence,1.0
+138,Data Analytics,Data Visualization,1.0
+138,Data Analytics,Data Analysis,1.0
+139,Data Analytics,Python,1.0
+139,Data Analytics,Data Visualization,1.0
+139,Data Analytics,Data Analysis,1.0
+140,Data Analytics,DeFi,-1.0
+140,Data Analytics,White Paper,-1.0
+141,Data Analytics,Data Analysis,1.0
+141,Data Analytics,Data Science,0.0
+142,Data Analytics,Operations Analytics,-1.0
+142,Data Analytics,Growth Analytics,-1.0
+142,Data Analytics,Human Resources Analytics,-1.0
+142,Data Analytics,Marketing Analytics,-1.0
+142,Data Analytics,Product Analytics,-1.0
+142,Data Analytics,Sales Analytics,-1.0
+142,Data Analytics,Customer Service Analytics,-1.0
+142,Data Analytics,Data Visualization,1.0
+142,Data Analytics,Data Analytics,0.0
+142,Data Analytics,Google Analytics,-1.0
+142,Data Analytics,Data Analysis,1.0
+143,Data Analytics,Growth Analytics,-1.0
+143,Data Analytics,Operations Analytics,-1.0
+143,Data Analytics,Query Development,-1.0
+143,Data Analytics,Report,-1.0
+143,Data Analytics,Microsoft Excel,0.0
+143,Data Analytics,SQL,0.0
+143,Data Analytics,Data Visualization,1.0
+143,Data Analytics,Data Analysis,1.0
+143,Data Analytics,Data Modeling,-1.0
+143,Data Analytics,Business Intelligence,1.0
+144,Data Analytics,Data Analytics,0.0
+144,Data Analytics,Tableau,-1.0
+144,Data Analytics,Business Intelligence,1.0
+144,Data Analytics,Data Visualization,1.0
+144,Data Analytics,BigQuery,-1.0
+144,Data Analytics,SQL,0.0
+144,Data Analytics,Snowflake,-1.0
+144,Data Analytics,Mobile App,-1.0
+145,Data Analytics,SQL,0.0
+145,Data Analytics,Python,1.0
+146,Data Analytics,Data Analysis,1.0
+147,Data Analytics,Dashboard,1.0
+147,Data Analytics,Data Visualization,1.0
+147,Data Analytics,ArcGIS,-1.0
+147,Data Analytics,Data Analysis,1.0
+147,Data Analytics,Data Mining,0.0
+147,Data Analytics,Data Science,0.0
+147,Data Analytics,Python,1.0
+147,Data Analytics,R,0.0
+147,Data Analytics,Data Entry,-1.0
+147,Data Analytics,GIS,-1.0
+148,Data Analytics,Data Analysis,1.0
+148,Data Analytics,Business Intelligence,1.0
+148,Data Analytics,Data Visualization,1.0
+148,Data Analytics,Data Modeling,-1.0
+148,Data Analytics,Microsoft Power BI,-1.0
+148,Data Analytics,Tableau,-1.0
+148,Data Analytics,Data Mining,0.0
+148,Data Analytics,Google Analytics,-1.0
+148,Data Analytics,Microsoft Excel,0.0
+149,Data Analytics,Data Analysis,1.0
+150,Data Analytics,Growth Analytics,-1.0
+150,Data Analytics,Human Resources Analytics,-1.0
+150,Data Analytics,Marketing Analytics,-1.0
+150,Data Analytics,Operations Analytics,-1.0
+150,Data Analytics,Product Analytics,-1.0
+150,Data Analytics,Sales Analytics,-1.0
+150,Data Analytics,Data Analysis,1.0
+150,Data Analytics,Google Analytics,-1.0
+150,Data Analytics,Data Visualization,1.0
+151,Data Analytics,SQL,0.0
+151,Data Analytics,Data Analysis,1.0
+151,Data Analytics,Business Analysis,0.0
+151,Data Analytics,Business Intelligence,1.0
+152,Email Marketing,Email Marketing,-1.0
+152,Email Marketing,Email Campaign Setup,-1.0
+152,Email Marketing,Marketing Automation,-1.0
+152,Email Marketing,Marketing Strategy,-1.0
+152,Email Marketing,Mailchimp,-1.0
+152,Email Marketing,Campaign Monitor,-1.0
+152,Email Marketing,Lead Generation,-1.0
+153,Other Content Writing,Resume,-1.0
+153,Other Content Writing,Resume Writing,-1.0
+153,Other Content Writing,Cover Letter Writing,-1.0
+153,Other Content Writing,Resume Design,-1.0
+153,Other Content Writing,CV,-1.0
+153,Other Content Writing,Tech & IT,-1.0
+153,Other Content Writing,Career Coaching,-1.0
+154,Data Analytics,Data Visualization,1.0
+155,Data Analytics,Report,-1.0
+155,Data Analytics,Data Analysis,1.0
+155,Data Analytics,Quantitative Analysis,-1.0
+155,Data Analytics,Statistics,0.0
+155,Data Analytics,Stata,-1.0

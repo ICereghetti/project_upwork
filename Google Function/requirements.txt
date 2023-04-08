@@ -1,0 +1,14 @@
+requests
+pandas
+datetime
+google-cloud-storage
+feedparser
+bs4
+datetime
+spacy
+numpy
+tqdm
+guess_language-spirit
+fsspec
+gcsfs
+spacytextblob
