@@ -1,7 +1,7 @@
 # Upwork Job Tracker + Mail Alarm + Skill Monitor Dashboard
 ## Project Description
 
-As a freelancer, it can be challenging to keep up with the constantly changing demands of the market. That's why I chose to create a personal Upwork job tracking and notification system to help me stay ahead of the competition. The data processed in this project can be seen in this Looker Studio Dashboard.
+As a freelancer, it can be challenging to keep up with the constantly changing demands of the market. That's why I chose to create a personal Upwork job tracking and notification system to help me stay ahead of the competition. The data processed in this project can be seen in this [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/cade079a-6280-43d5-b942-afc4dece03de).
 
 By tracking Upwork job postings in real-time and analyzing the required skills and qualifications, this project provides Me personalized push notifications by email for the job listings that match my skills and preferences. This saves me time and effort by highlighting the best opportunities and filtering out unwanted job postings.
 
