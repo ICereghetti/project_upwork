@@ -21,12 +21,12 @@ On the other hand, by analyzing the job listings and identifying the most common
 2) Google Platform (Cloud Functions, Cloud Storage, Google Bigquery, Cloud Scheduler, Looker Studio)
 
 ## Highlights
-#### A) The main ETL is created in Google Cloud Function and Scheduer
+#### A) The main ETL is created in Google Cloud Function and Cloud Scheduer
 1) Cloud Storage is used to save all the historic data
 2) All the information is scraped with an RSS created with my Upwork Account.
 3) Most of the transformation is made with Pandas
 4) The Entities are analyzed with Spacy
 5) Each job post is scored with a value from -100 to 100, based on the skills required in it
 6) There is an alarm send into my personal Gmail account when there is a job I can apply to.
-#### B) Bigquery is used in this project to pivot and organize array columns to create the views needed for Looker Studoi  
-#### C) The data is displayed with Looker Studio in this Dashboard
+#### B) Bigquery is used in this project to pivot and organize array columns to create the views needed for Looker Studio  
+#### C) The data is displayed with Looker Studio in [this](https://lookerstudio.google.com/reporting/cade079a-6280-43d5-b942-afc4dece03de) Dashboard
